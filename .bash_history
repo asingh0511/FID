@@ -79,3 +79,31 @@ vim /etc/sudoers
 systemctl restart sshd
 cd /tmp
 ls
+touch index2.html
+git status
+git init
+git status
+git add index2.html
+git status
+git add .
+git status
+git commit -m "added to LR"
+git log
+git config --
+git config --global user.email asingh.austin@gmail.com
+git config --global user.name amrita0511
+git config --list
+cat ~/.gitconfig
+git log
+git ls -files
+git log
+git log --oneline
+touch index1.html
+git status
+git add.
+git add .
+git status
+git commit -m index1.html
+git log
+git log --oneline
+git show 1ea56fb
