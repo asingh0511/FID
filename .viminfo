@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1656519691,,"wq!"
+|2,0,1656520079,,"wq!"
 :!wq!
 |2,0,1656516753,,"!wq!"
 
@@ -27,24 +27,76 @@
 # Registers:
 
 # File marks:
-'0  1  30  ~/player.php
-|4,48,1,30,1656519691,"~/player.php"
-'1  1  42  ~/index2.html
-|4,49,1,42,1656517003,"~/index2.html"
-'2  3  27  ~/index1.html
-|4,50,3,27,1656516764,"~/index1.html"
-'3  101  25  /etc/sudoers
-|4,51,101,25,1655343808,"/etc/sudoers"
-'4  61  0  /etc/ssh/sshd_config
-|4,52,61,0,1655343687,"/etc/ssh/sshd_config"
+'0  3  15  ~/index2.html
+|4,48,3,15,1656520079,"~/index2.html"
+'1  1  0  ~/idex2.html
+|4,49,1,0,1656520046,"~/idex2.html"
+'2  3  22  ~/player.php
+|4,50,3,22,1656519804,"~/player.php"
+'3  1  30  ~/player.php
+|4,51,1,30,1656519691,"~/player.php"
+'4  1  30  ~/player.php
+|4,52,1,30,1656519691,"~/player.php"
+'5  1  42  ~/index2.html
+|4,53,1,42,1656517003,"~/index2.html"
+'6  1  42  ~/index2.html
+|4,54,1,42,1656517003,"~/index2.html"
+'7  3  27  ~/index1.html
+|4,55,3,27,1656516764,"~/index1.html"
+'8  101  25  /etc/sudoers
+|4,56,101,25,1655343808,"/etc/sudoers"
+'9  61  0  /etc/ssh/sshd_config
+|4,57,61,0,1655343687,"/etc/ssh/sshd_config"
 
 # Jumplist (newest first):
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  3  22  ~/player.php
+|4,39,3,22,1656519804,"~/player.php"
+-'  3  22  ~/player.php
+|4,39,3,22,1656519804,"~/player.php"
+-'  3  22  ~/player.php
+|4,39,3,22,1656519804,"~/player.php"
+-'  3  22  ~/player.php
+|4,39,3,22,1656519804,"~/player.php"
+-'  1  30  ~/player.php
+|4,39,1,30,1656519771,"~/player.php"
+-'  1  30  ~/player.php
+|4,39,1,30,1656519771,"~/player.php"
+-'  1  30  ~/player.php
+|4,39,1,30,1656519771,"~/player.php"
+-'  1  30  ~/player.php
+|4,39,1,30,1656519771,"~/player.php"
+-'  1  30  ~/player.php
+|4,39,1,30,1656519691,"~/player.php"
+-'  1  30  ~/player.php
+|4,39,1,30,1656519691,"~/player.php"
+-'  1  30  ~/player.php
+|4,39,1,30,1656519691,"~/player.php"
 -'  1  30  ~/player.php
 |4,39,1,30,1656519691,"~/player.php"
 -'  1  42  ~/index2.html
 |4,39,1,42,1656517003,"~/index2.html"
 -'  1  42  ~/index2.html
 |4,39,1,42,1656517003,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656517003,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656517003,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656517003,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656517003,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656517003,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656517003,"~/index2.html"
 -'  3  27  ~/index1.html
 |4,39,3,27,1656516764,"~/index1.html"
 -'  3  27  ~/index1.html
@@ -53,6 +105,118 @@
 |4,39,3,27,1656516764,"~/index1.html"
 -'  3  27  ~/index1.html
 |4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  3  27  ~/index1.html
+|4,39,3,27,1656516764,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
+-'  1  0  ~/index1.html
+|4,39,1,0,1656516696,"~/index1.html"
 -'  1  0  ~/index1.html
 |4,39,1,0,1656516696,"~/index1.html"
 -'  1  0  ~/index1.html
@@ -77,102 +241,38 @@
 |4,39,101,25,1655343808,"/etc/sudoers"
 -'  101  25  /etc/sudoers
 |4,39,101,25,1655343808,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  1  0  /etc/sudoers
-|4,39,1,0,1655343742,"/etc/sudoers"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  61  0  /etc/ssh/sshd_config
-|4,39,61,0,1655343687,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1655343661,"/etc/ssh/sshd_config"
+-'  101  25  /etc/sudoers
+|4,39,101,25,1655343808,"/etc/sudoers"
+-'  101  25  /etc/sudoers
+|4,39,101,25,1655343808,"/etc/sudoers"
+-'  101  25  /etc/sudoers
+|4,39,101,25,1655343808,"/etc/sudoers"
+-'  101  25  /etc/sudoers
+|4,39,101,25,1655343808,"/etc/sudoers"
 
 # History of marks within files (newest to oldest):
 
-> ~/player.php
-	*	1656519688	0
-	"	1	30
-	^	1	31
-	.	1	30
-	+	1	30
-
 > ~/index2.html
-	*	1656516998	0
-	"	1	42
-	^	1	43
-	.	1	42
+	*	1656520076	0
+	"	3	15
+	^	3	16
+	.	3	15
 	+	1	42
+	+	2	0
+	+	3	15
+
+> ~/idex2.html
+	*	1656520043	0
+	"	1	0
+	^	1	0
+
+> ~/player.php
+	*	1656519797	0
+	"	3	22
+	^	3	23
+	.	3	22
+	+	1	31
+	+	3	22
 
 > ~/index1.html
 	*	1656516757	0
