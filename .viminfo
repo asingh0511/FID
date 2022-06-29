@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1656531937,,"wq!"
+|2,0,1656536263,,"wq!"
 :!wq!
 |2,0,1656516753,,"!wq!"
 
@@ -27,38 +27,144 @@
 # Registers:
 
 # File marks:
-'0  7  30  ~/index2.html
-|4,48,7,30,1656531937,"~/index2.html"
-'1  5  18  ~/index2.html
-|4,49,5,18,1656520233,"~/index2.html"
-'2  5  18  ~/index2.html
-|4,50,5,18,1656520233,"~/index2.html"
-'3  3  15  ~/index2.html
-|4,51,3,15,1656520079,"~/index2.html"
-'4  3  15  ~/index2.html
-|4,52,3,15,1656520079,"~/index2.html"
-'5  3  15  ~/index2.html
-|4,53,3,15,1656520079,"~/index2.html"
+'0  1  16  ~/Shreya.html
+|4,48,1,16,1656536263,"~/Shreya.html"
+'1  1  0  ~/idex2.html
+|4,49,1,0,1656533764,"~/idex2.html"
+'2  2  0  ~/.git/COMMIT_EDITMSG
+|4,50,2,0,1656533735,"~/.git/COMMIT_EDITMSG"
+'3  7  30  ~/index2.html
+|4,51,7,30,1656531937,"~/index2.html"
+'4  5  18  ~/index2.html
+|4,52,5,18,1656520233,"~/index2.html"
+'5  5  18  ~/index2.html
+|4,53,5,18,1656520233,"~/index2.html"
 '6  3  15  ~/index2.html
 |4,54,3,15,1656520079,"~/index2.html"
-'7  1  0  ~/idex2.html
-|4,55,1,0,1656520046,"~/idex2.html"
-'8  3  22  ~/player.php
-|4,56,3,22,1656519804,"~/player.php"
-'9  1  30  ~/player.php
-|4,57,1,30,1656519691,"~/player.php"
+'7  3  15  ~/index2.html
+|4,55,3,15,1656520079,"~/index2.html"
+'8  3  15  ~/index2.html
+|4,56,3,15,1656520079,"~/index2.html"
+'9  3  15  ~/index2.html
+|4,57,3,15,1656520079,"~/index2.html"
 
 # Jumplist (newest first):
+-'  1  16  ~/Shreya.html
+|4,39,1,16,1656536263,"~/Shreya.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656533764,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656533764,"~/idex2.html"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1656533735,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1656533735,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1656533735,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1656533735,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1656533701,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1656533701,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1656533701,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1656533701,"~/.git/COMMIT_EDITMSG"
+-'  7  30  ~/index2.html
+|4,39,7,30,1656531937,"~/index2.html"
+-'  7  30  ~/index2.html
+|4,39,7,30,1656531937,"~/index2.html"
+-'  7  30  ~/index2.html
+|4,39,7,30,1656531937,"~/index2.html"
+-'  7  30  ~/index2.html
+|4,39,7,30,1656531937,"~/index2.html"
+-'  7  30  ~/index2.html
+|4,39,7,30,1656531937,"~/index2.html"
+-'  7  30  ~/index2.html
+|4,39,7,30,1656531937,"~/index2.html"
+-'  7  30  ~/index2.html
+|4,39,7,30,1656531937,"~/index2.html"
 -'  7  30  ~/index2.html
 |4,39,7,30,1656531937,"~/index2.html"
 -'  5  18  ~/index2.html
 |4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656531917,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656520233,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656520233,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656520233,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656520233,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656520233,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656520233,"~/index2.html"
+-'  5  18  ~/index2.html
+|4,39,5,18,1656520233,"~/index2.html"
 -'  5  18  ~/index2.html
 |4,39,5,18,1656520233,"~/index2.html"
 -'  3  15  ~/index2.html
 |4,39,3,15,1656520213,"~/index2.html"
 -'  3  15  ~/index2.html
 |4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520213,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
+-'  3  15  ~/index2.html
+|4,39,3,15,1656520079,"~/index2.html"
 -'  3  15  ~/index2.html
 |4,39,3,15,1656520079,"~/index2.html"
 -'  1  42  ~/index2.html
@@ -67,6 +173,48 @@
 |4,39,1,42,1656520055,"~/index2.html"
 -'  1  42  ~/index2.html
 |4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
+-'  1  42  ~/index2.html
+|4,39,1,42,1656520055,"~/index2.html"
 -'  1  0  ~/idex2.html
 |4,39,1,0,1656520046,"~/idex2.html"
 -'  1  0  ~/idex2.html
@@ -83,174 +231,45 @@
 |4,39,1,0,1656520046,"~/idex2.html"
 -'  1  0  ~/idex2.html
 |4,39,1,0,1656520046,"~/idex2.html"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  3  22  ~/player.php
-|4,39,3,22,1656519804,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519771,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  30  ~/player.php
-|4,39,1,30,1656519691,"~/player.php"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  1  42  ~/index2.html
-|4,39,1,42,1656517003,"~/index2.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
--'  3  27  ~/index1.html
-|4,39,3,27,1656516764,"~/index1.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
+-'  1  0  ~/idex2.html
+|4,39,1,0,1656520046,"~/idex2.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/Shreya.html
+	*	1656536259	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> ~/idex2.html
+	*	1656533762	0
+	"	1	0
+	^	1	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1656533731	0
+	"	2	0
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/index2.html
 	*	1656531935	0
@@ -262,11 +281,6 @@
 	+	3	16
 	+	5	18
 	+	7	30
-
-> ~/idex2.html
-	*	1656520043	0
-	"	1	0
-	^	1	0
 
 > ~/player.php
 	*	1656519797	0
